@@ -1,0 +1,11 @@
++----------------+
+|                |
+|                |
+|                |
+|        O       |
+|                |
+|      OOO       |
+|OOOOOOOOOOOOXOOO|
+|OOOOOOOOOOOOOOOO|
+|OOOOOOOOOOOOOOOO|
++----------------+
