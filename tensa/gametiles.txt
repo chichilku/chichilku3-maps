@@ -1,0 +1,11 @@
++----------------+
+|                |
+|                |
+|                |
+|             i  |
+|OOO          OOO|
+|                |
+|iiii          ii|
+|OOOOOOOOOOOOOOOO|
+|OOOOOOOOOOOOOOOO|
++----------------+
